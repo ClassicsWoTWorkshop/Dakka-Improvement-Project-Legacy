@@ -10,11 +10,11 @@ RELEASE 1 (19. June 2018, 23 vehicles)
 - USA: M4 Improved, T14, M6A1, T20, T69, T32, Chrysler K GF
 - USSR: MT-25, LTG, SU-100M1, T-54 Ltwt., Object 257, ST-I
 
-RELEASE 2 (17. July 2018, 26 vehicles)
+RELEASE 2 (17. July 2018, 27 vehicles)
 
 - China: Type 58
 - France: AMX 13 90
-- Germany: Pz IV H, Pz III/IV, VK 30.01 (P), VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, VK 45.02 A, Jagdtiger, E 75, VK 45.02 B
+- Germany: Pz IV H, Pz III/IV, Nashorn, VK 30.01 (P), VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, VK 45.02 A, Jagdtiger, E 75, VK 45.02 B
 - Italy: Progetto M35 mod. 46
 - Japan: Ke-Ho
 - Sweden: Ikv 103, Strv Leo, Ikv 90 B, Emil I, Emil II, Kranvagn
