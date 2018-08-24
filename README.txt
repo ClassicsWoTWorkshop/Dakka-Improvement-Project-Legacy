@@ -21,10 +21,14 @@ RELEASE 2 (17. July 2018, 27 vehicles)
 - UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
 - USSR: IS-1 
 
+MINI-RELEASE 2.1 (23. August 2018, 2 vehicles)
+
+- Poland: 14TP, 25TP KSUST II
+
 PLEASE NOTE: More vehicles are on their way soon!
 
 TO INSTALL:
-- Drop the "CWW-Dakka-Improvement-Project" folder into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.0.2.2)
+- Drop the "CWW-Dakka-Improvement-Project" folder into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.0.2.4)
 
 - QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there happen to be any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual wotmod(s) from the aforementioned "CWW-Dakka-Improvement-Project" folder (inside <WoT Install Location>\mods\). The vehicle's names are written in the name of the wotmod files, and are sorted into subfolders by nation (again, for your convenience).
 
