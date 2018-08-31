@@ -1,5 +1,15 @@
 Thank you for downloading!
 
+=== INSTALL INSTRUCTIONS ===
+
+- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.0.2.4).
+
+- QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there are any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual .wotmod file(s) from the aforementioned "CWW-Dakka-Improvement-Project". The vehicle's names are written in the name of the .wotmod files, and are sorted into subfolders by nation (again, for your convenience).
+
+- Additionally, a set of alternative configurations for several vehicles have been included as optional add-ons, found within the "ADD-ONS - Alternate Configs (see readme)" folder. To install these, drag the "CWW-Dakka-Improvement-Project" folder within the vehicle folders of your choice into <Your WoT Directory>\res_mods\<game version number> and overwrite the existing ones as necessary. 
+
+=== MOD INFO ===
+
 This mod adds more dakka (mainly machine guns) to a selection of vehicles which were previously lacking a little in that department (hence its' title, "Dakka Improvement Project"). Thus far, the following vehicles are included:
 
 RELEASE 1 (19. June 2018, 23 vehicles)
@@ -21,16 +31,14 @@ RELEASE 2 (17. July 2018, 27 vehicles)
 - UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
 - USSR: IS-1 
 
-MINI-RELEASE 2.1 (23. August 2018, 2 vehicles)
+MINI-RELEASE 2.1 (24. August 2018, 2 vehicles)
 
+- Japan: O-Ni
 - Poland: 14TP, 25TP KSUST II
 
-PLEASE NOTE: More vehicles are on their way soon!
+Please keep in mind: More vehicles are on their way soon!
 
-TO INSTALL:
-- Drop the "CWW-Dakka-Improvement-Project" folder into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.0.2.4)
-
-- QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there happen to be any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual wotmod(s) from the aforementioned "CWW-Dakka-Improvement-Project" folder (inside <WoT Install Location>\mods\). The vehicle's names are written in the name of the wotmod files, and are sorted into subfolders by nation (again, for your convenience).
+===
 
 Enjoy!
 
