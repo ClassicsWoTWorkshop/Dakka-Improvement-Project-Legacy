@@ -2,7 +2,7 @@ Thank you for downloading!
 
 === INSTALL INSTRUCTIONS ===
 
-- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.0.2.4).
+- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.3.0.1).
 
 - QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there are any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual .wotmod file(s) from the aforementioned "CWW-Dakka-Improvement-Project". The vehicle's names are written in the name of the .wotmod files, and are sorted into subfolders by nation (again, for your convenience).
 
@@ -36,7 +36,24 @@ MINI-RELEASE 2.1 (24. August 2018, 2 vehicles)
 - Japan: O-Ni
 - Poland: 14TP, 25TP KSUST II
 
-Please keep in mind: More vehicles are on their way soon!
+RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
+
+- Czechoslovakia: Skoda T-24
+- France: AMX ELC bis
+- Germany: Leopard PT A, E 50 M
+- Italy: P.43 Bis, P.43 Ter, P.44 Pantera (replaced with era-correct Breda MGs)
+- Poland: 40TP Habicha
+- UK: Alecto, Centurion I, Centurion 7/1 (replaced with .50 cal)
+- USA: Chrysler K / GF (split into two versions), XM551 Sheridan
+- USSR: T-45, ISU-152, T-54 ltwt. (DShK)
+- Optional Addons:
+	- China: Type 64 with DShK
+	- Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late" MGs (unhistorical; previously the standard versions) 
+	- Poland: 45TP Habicha with alternate DShK mount
+	- USSR: T-54 ltwt. with twin-KPVs
+
+
+Please keep in mind: More vehicles are on their way!
 
 ===
 
