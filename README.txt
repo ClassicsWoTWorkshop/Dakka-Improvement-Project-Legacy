@@ -24,21 +24,17 @@ RELEASE 1 (19. June 2018, 23 vehicles)
 - USA: M4 Improved, T14, M6A1, T20, T69, T32, Chrysler K GF
 - USSR: MT-25, LTG, SU-100M1, T-54 Ltwt., Object 257, ST-I
 
-RELEASE 2 (17. July 2018, 27 vehicles)
+RELEASE 2 (17. July - 24. August 2018, 29 vehicles)
 
 - China: Type 58
 - France: AMX 13 90
 - Germany: Pz IV H, Pz III/IV, Nashorn, VK 30.01 (P), VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, VK 45.02 A, Jagdtiger, E 75, VK 45.02 B
 - Italy: Progetto M35 mod. 46
-- Japan: Ke-Ho
+- Japan: Ke-Ho, O-Ni
+- Poland: 14TP, 25TP KSUST II
 - Sweden: Ikv 103, Strv Leo, Ikv 90 B, Emil I, Emil II, Kranvagn
 - UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
 - USSR: IS-1 
-
-MINI-RELEASE 2.1 (24. August 2018, 2 vehicles)
-
-- Japan: O-Ni
-- Poland: 14TP, 25TP KSUST II
 
 RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
 
@@ -56,14 +52,14 @@ RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
 	- Poland: 45TP Habicha with alternate DShK mount
 	- USSR: T-54 ltwt. with twin-KPVs
 
-RELEASE 4 (29. April - ???, 2019, 23 vehicles)
+RELEASE 4 (29. April - ???, 2019, 21 vehicles)
 
 - Czechoslovakia: Skoda T 27
 - France: leFH18B2, M10 RBFM, ELC EVEN 90, AMX 13 105, AMX 50 120
 - Germany: HWK 30, Löwe, VK 75.01
 - Sweden: Lansen C, UDES 16
 - USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T78
-- USSR: T-116, Valentine II, Object 416, KV-1
+- USSR: Object 416, KV-1
 
 Please keep in mind: More vehicles are on their way!
 
