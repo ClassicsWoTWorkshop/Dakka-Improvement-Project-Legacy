@@ -58,7 +58,7 @@ RELEASE 4 (29. April - ???, 2019, 21 vehicles)
 - France: leFH18B2, M10 RBFM, ELC EVEN 90, AMX 13 105, AMX 50 120
 - Germany: HWK 30, Löwe, VK 75.01
 - Sweden: Lansen C, UDES 16
-- USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T78
+- USA: T54E1, T29, T34, T34 Black, T110E5, T30, T26E5, T26E5 Patriot, T78
 - USSR: Object 416, KV-1
 
 Please keep in mind: More vehicles are on their way!
