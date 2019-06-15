@@ -24,7 +24,7 @@ RELEASE 1 (19. June 2018, 23 vehicles)
 - USA: M4 Improved, T14, M6A1, T20, T69, T32, Chrysler K GF
 - USSR: MT-25, LTG, SU-100M1, T-54 Ltwt., Object 257, ST-I
 
-RELEASE 2 (17. July - 24. August 2018, 29 vehicles)
+RELEASE 2 (17. July - 24. August 2018, 30 vehicles)
 
 - China: Type 58
 - France: AMX 13 90
