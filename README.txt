@@ -4,9 +4,9 @@ Thank you for downloading!
 === INSTALL INSTRUCTIONS ===
 ////////////////////////////
 
-- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.5.1.0).
+- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.6.0.0).
 
-- QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there are any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual .wotmod file(s) from the aforementioned "CWW-Dakka-Improvement-Project". The vehicle's names are written in the name of the .wotmod files, and are sorted into subfolders by nation (again, for your convenience).
+- QUICK NOTE: For your convenience, all of the vehicles included in the mod are packaged in separate wotmods. In case there are any vehicles included in the mod which you don't want any extra dakka for, then all you have to do is remove their individual .wotmod file(s) from the aforementioned "CWW-Dakka-Improvement-Project" folder. The vehicle's names are written in the name of the .wotmod files, and are sorted into subfolders by nation.
 
 - Additionally, a set of alternative configurations for several vehicles have been included as optional add-ons, found within the "ADD-ONS - Alternate Configs (see readme)" folder. To install these, drag the "CWW-Dakka-Improvement-Project" folder within the vehicle folders of your choice into <Your WoT Directory>\res_mods\<game version number> and overwrite the existing ones as necessary. 
 
@@ -14,7 +14,7 @@ Thank you for downloading!
 === MOD INFO ===
 ////////////////
 
-This mod adds more dakka (mainly machine guns) to a selection of vehicles which were previously lacking a little in that department (hence its' title, "Dakka Improvement Project"). Thus far, the following vehicles are included:
+This mod adds more dakka to a selection of vehicles which were previously lacking a little in that department (hence the title of "Dakka Improvement Project"). Thus far, the following vehicles are included:
 
 RELEASE 1 (19. June 2018, 23 vehicles)
 
@@ -52,13 +52,13 @@ RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
 	- Poland: 45TP Habicha with alternate DShK mount
 	- USSR: T-54 ltwt. with twin-KPVs
 
-RELEASE 4 (29. April - ???, 2019, 21 vehicles)
+RELEASE 4 (29. April - 28. June, 2019, 21 vehicles)
 
 - Czechoslovakia: Skoda T 27
-- France: leFH18B2, M10 RBFM, ELC EVEN 90, AMX 13 105, AMX 50 120
-- Germany: HWK 30, Löwe, VK 75.01
-- Sweden: Lansen C, UDES 16
-- USA: T54E1, T29, T34, T34 Black, T110E5, T30, T26E5, T26E5 Patriot, T78
+- France: leFH18B2, M10 RBFM (+ "Siroco" style), ELC EVEN 90, AMX 13 105, AMX 50 120
+- Germany: HWK 30, Löwe
+- Sweden: Lansen C (+ "Odin's Wolves" style), UDES 16
+- USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T110E5, T78 (+ "Federalist" style)
 - USSR: Object 416, KV-1
 
 Please keep in mind: More vehicles are on their way!
