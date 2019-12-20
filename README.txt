@@ -4,67 +4,95 @@ Thank you for downloading!
 === INSTALL INSTRUCTIONS ===
 ////////////////////////////
 
-- To install, drop the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.6.0.0).
+- To install, drag the "CWW-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-Move the "CWW-Dakka-Improvement-Project" folder from "MAIN MOD (put contents into mods version folder)" into <Your WoT Directory>\res_mods\<game version number>. (Example: C:\Games\World_Of_Tanks\mods\1.6.0.0).
-All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
+- All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
-- Additionally, a set of alternative configurations for several vehicles have been included as optional add-ons, found within the "ADD-ONS - Alternate Configs (see readme)" folder. To install these, drag the "CWW-Dakka-Improvement-Project" folder within the vehicle folders of your choice into <Your WoT Directory>\mods\<game version number> and overwrite the existing ones as necessary. 
+- ADD-ONS (OPTIONAL): Alternate configurations for a few individual vehicles have been included as optional add-ons, found within the "ADD-ONS - Alternate Configs" folder. To install any of these, drag "CWW-Dakka-Improvement-Project" from within the option folder(s) of your choice to <Your WoT Directory>\mods\<Game Version> and overwrite any existing files as necessary.
 
 ////////////////
 === MOD INFO ===
 ////////////////
 
-This mod adds more dakka to a selection of vehicles which were previously lacking a little in that department (hence the title of "Dakka Improvement Project"). Thus far, the following vehicles are included:
+Adds more dakka to a large selection of vehicles.
 
-RELEASE 1 (19. June 2018, 23 vehicles)
+CURRENTLY INCLUDED VEHICLES (88 Total):
 
-- France: AMX 13 57, AMX 13 57 GF, B-C 12 t
-- Italy: P.43 Bis, P.43 Ter, P.44 Pantera
-- Japan: O-I Exp., O-I, Chi-Ri
-- USA: M4 Improved, T14, M6A1, T20, T69, T32, Chrysler K GF
-- USSR: MT-25, LTG, SU-100M1, T-54 Ltwt., Object 257, ST-I
+CHINA:
 
-RELEASE 2 (17. July - 24. August 2018, 30 vehicles)
+- Type 58
 
-- China: Type 58
-- France: AMX 13 90
-- Germany: Pz IV H, Pz III/IV, Nashorn, VK 30.01 (P), VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, VK 45.02 A, Jagdtiger, E 75, VK 45.02 B
-- Italy: Progetto M35 mod. 46
-- Japan: Ke-Ho, O-Ni
-- Poland: 14TP, 25TP KSUST II
-- Sweden: Ikv 103, Strv Leo, Ikv 90 B, Emil I, Emil II, Kranvagn
-- UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
-- USSR: IS-1 
+CZECHOSLOVAKIA:
 
-RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
+- Skoda T-24, Skoda T-27
 
-- Czechoslovakia: Skoda T-24
-- France: AMX ELC bis
-- Germany: Leopard PT A, E 50 M
-- Italy: P.43 Bis, P.43 Ter, P.44 Pantera (replaced with era-correct Breda MGs)
-- Poland: 40TP Habicha
-- UK: Alecto, Centurion I, Centurion 7/1 (replaced with .50 cal)
-- USA: Chrysler K / GF (split into two versions), XM551 Sheridan
-- USSR: T-45, ISU-152, T-54 ltwt. (DShK)
-- Optional Addons:
-	- China: Type 64 with DShK
-	- Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late" MGs (unhistorical; previously the standard versions) 
-	- Poland: 45TP Habicha with alternate DShK mount
-	- USSR: T-54 ltwt. with twin-KPVs
+FRANCE: 
 
-RELEASE 4 (29. April - 28. June, 2019, 21 vehicles)
+- LT: AMX ELC bis, AMX 13 57, AMX 13 57 GF, B-C 12 t, ELC EVEN 90, AMX 13 90, AMX 13 105
+- HT: AMX 50 120
+- TD: M10 RBFM (+"Siroco" style)
+- SPG: leFH18B2
 
-- Czechoslovakia: Skoda T 27
-- France: leFH18B2, M10 RBFM (+ "Siroco" style), ELC EVEN 90, AMX 13 105, AMX 50 120
-- Germany: HWK 30, Löwe
-- Sweden: Lansen C (+ "Odin's Wolves" style), UDES 16
-- USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T110E5, T78 (+ "Federalist" style)
-- USSR: Object 416, KV-1
+GERMANY:
 
-Please keep in mind: More vehicles are on their way!
+- LT: HWK 30
+- MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 (P), Leopard PT A, E 50 Ausf. M
+- HT: VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, Löwe, VK 45.02 A, E 75, VK 45.02 B
+- TD: Nashorn, Jagdtiger
 
-===
+ITALY: 
+
+- P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46
+
+JAPAN: 
+
+- LT: Ke-Ho
+- MT: Chi-Ri
+- HT: O-I Exp., O-I, O-Ni
+
+POLAND: 
+
+- LT: 14TP
+- MT: 25TP KSUST II, 40TP Habicha
+- HT: 45TP Habicha
+
+SWEDEN: 
+
+- MT: Strv Leo, Lansen C (+"Odin's Wolves" style), UDES 16
+- HT: Emil I, Emil II, Kranvagn
+- TD: Ikv 103, Ikv 90 B
+
+UK: 
+
+- MT: FV4202 (P), Centurion I, Centurion 7/1
+- HT: Caernarvon, Conqueror
+- TD: Alecto
+
+USA: 
+
+- LT: XM551 Sheridan
+- MT: M4 Improved, T20, T69, T54E1
+- HT: T14, M6A1, T29, T26E5, T26E5 Patriot, T32, T34, T34 Black, Chrysler K, Chrysler K GF, T110E5
+- TD: T78 (+"Federalist" style), T30
+
+USSR: 
+
+- LT: T-45, MT-25, LTG, T-54 Ltwt.
+- MT: Object 416
+- HT: KV-1, IS-1, Object 257, ST-I
+- TD: SU-100M1, ISU-152
+
+ADD-ONS (Optional):
+- China: Type 64 with DShK
+- Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late-model" machine guns (unhistorical)
+- Poland: 45TP Habicha with alternate (simplified) DShK mount
+- UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
+- USA: T30 with roof-mounted MGs only (no spare .50-cal on turret rear)
+- USSR: T-54 ltwt. with twin-KPV mount (from Obj 705A)
+
+IMPORTANT NOTE ON PROJECTION DECALS: Any vehicles with oscillating turrets (AMX 13 105, Kranvagn, etc.) included in this pack may not display projection decals correctly. 
+
+More vehicles are in the works, stay tuned for updates.
 
 Enjoy!
 
