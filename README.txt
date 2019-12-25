@@ -16,11 +16,11 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (88 Total):
+CURRENTLY INCLUDED VEHICLES (89 Total):
 
 CHINA:
 
-- Type 58
+- Type T-34, Type 58
 
 CZECHOSLOVAKIA:
 
