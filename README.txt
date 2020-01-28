@@ -37,7 +37,7 @@ GERMANY:
 
 - LT: HWK 30
 - MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 (P), Panther, VK 30.02 DB, Leopard PT A, E 50 Ausf. M
-- HT: VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, Löwe, VK 45.02 A, E 75, VK 45.02 B
+- HT: VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, Löwe, VK 45.02 A, VK 75.01 K, E 75, VK 45.02 B
 - TD: Nashorn, Jagdtiger
 
 ITALY: 
