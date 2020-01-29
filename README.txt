@@ -16,7 +16,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (103 Total):
+CURRENTLY INCLUDED VEHICLES (104 Total):
 
 CHINA:
 
@@ -30,19 +30,19 @@ FRANCE:
 
 - LT: AMX ELC bis, AMX 13 57, AMX 13 57 GF, B-C 12 t, ELC EVEN 90, AMX 13 90, AMX 13 105
 - HT: FCM 50 t, AMX 50 120
-- TD: M10 RBFM (+"Siroco" style)
+- TD: M10 RBFM (+ "Siroco" 3D style)
 - SPG: leFH18B2
 
 GERMANY:
 
 - LT: HWK 30
-- MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 (P), Panther, VK 30.02 DB, Leopard PT A, E 50 Ausf. M
-- HT: VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, Löwe, VK 45.02 A, VK 75.01 K, E 75, VK 45.02 B
+- MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 P, Panther, VK 30.02 DB, Leopard PT A, E 50 Ausf. M
+- HT: VK 36.01 H, Tiger (P), VK 45.03, Löwe, VK 75.01 K, Tiger II, VK 45.02 A, E 75, VK 45.02 B
 - TD: Nashorn, Jagdtiger
 
 ITALY: 
 
-- P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46
+- P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46 (+ "Safari Corazzato" 3D style)
 
 JAPAN: 
 
@@ -58,7 +58,7 @@ POLAND:
 
 SWEDEN: 
 
-- MT: Strv Leo, Lansen C (+"Odin's Wolves" style), UDES 16
+- MT: Strv Leo, Lansen C (+ "Odin's Wolves" 3D style), UDES 16
 - HT: Emil I, Emil II, Kranvagn
 - TD: Ikv 103, Ikv 90 B
 
@@ -74,7 +74,7 @@ USA:
 - LT: XM551 Sheridan
 - MT: M4 Improved, T20, TL-1 LPC, T69, T54E1, M48A5 Patton
 - HT: T14, M6A1, T29, T26E5, T26E5 Patriot, T32, T34, T34 Black, Chrysler K, Chrysler K GF, AE Phase 1, T110E5
-- TD: T78 (+"Federalist" style), T30
+- TD: T78 (+ "Federalist" 3D style), T30
 
 USSR: 
 
