@@ -1,0 +1,95 @@
+MAIN VERSION ADDITIONS:
+
+RELEASE 6 (16. Jun 2020)
+
+- MAJOR OVERHAUL: Revisited all included vehicles, fixed display of projectionDecals (where possible)*, optimized internal file structure, extensively reworked some existing vehicles
+
+===NEW VEHICLES (21):====
+
+- France: Lynx 6x6, EBR 105
+- Germany: E 75 TS, VK 100.01 (P)
+- UK: Super Conqueror, Turtle Mk. 1, FV4004 Conway
+- USA: T6 Medium, M6A2E1, Concept 1B, T28 HTC
+- USSR: LT-432, T-28, T-28E F-30, T-34-85, T-34-85M, KV-2, KV-85, KV-122, IS-3A, Object 263
+
+===NEW ADD-ONS (4):===
+
+- France: EBR 75 FL-10 (introducing as optional add-on due to an issue affecting display of large decals on turret)
+- USA: T78 (separated 3D style from main .wotmod; replaces .30-cal M1919A4 with .50-cal M2HB)
+- USSR: T-34-85M (alternate version with roof-mounted DP-28 LMG), T-103 (with 'Granite' twin-KPV machine gun platform [from IS-7 3d style])
+
+===OTHER NOTABLE CHANGES:===
+
+- Czechoslovakia: Škoda T 27 (added ammo drums + rifle stowed on side turret)
+- France: AMX 13 90, AMX 13 105 (consolidated .50-cal MG mount into one texture/primGroup)
+- Germany: Nashorn (made some adjustments to visual mesh, replaced left MG model, consolidated MGs and mounts into one texture/primGroup)
+- UK: Centurion 7/1 (added FN MAG in addition to existing .50-cal), Caernarvon (corrected some mesh issues)
+- USA: TL-1 LPC (Added second M60 MG + spare ammo box, revised positioning of original MG), XM551 (consolidated MGs and mounts into one texture/primGroup, corrected camo scaling on MG shield, corrected some minor mesh issues)
+- USSR: IS-2-II / IS-3-II (Fixed bounding box size), KV-1 (Fixed incorrect technical mod ID, which caused conflict with another vehicle)
+- Misc: Updated add-on folder names to better describe each option; [internal] added more detailed identifiers to some vehicles' mod names 
+
+*Unfortunately, most vehicles with oscillating turrets still do not display decals correctly. Because of this, decal display has been disabled on the gun models of the following vehicles: AMX 13 57, AMX 13 90, AMX 13 105, AMX 50 120, B-C 12 t, Emil I, Emil II, Kranvagn, Manticore, T54E1, T69.
+
+RELEASE 5 (27. Jan 2020)
+
+NEW VEHICLES (16):
+- China: 59-Patton
+- France: FCM 50 t
+- Germany: Panther, VK 30.02 DB (Vampir optics, no machine guns), VK 75.01 K
+- Italy: Progetto 46 "Safari Corazzato" 3D style
+- Japan: Type 95 Heavy, O-Ho
+- UK: Manticore, Chimera, Charioteer
+- USA: TL-1 LPC, M48A5 Patton, AE Phase 1 (dual .50-cals)
+- USSR: IS-2-II, IS-3-II
+
+ADD-ONS (3):
+- France: leFH18B2 with rear doors open
+- USA: AE Phase 1 with single .50-cal
+- USSR: T-103 with 'Granite' machine gun platform (from IS-7 3d style) [note: included as add-on due to third-person visibility issues as a result of the turret + platform height]
+
+
+RELEASE 4 (29. April - 28. June, 2019, 21 vehicles)
+
+- Czechoslovakia: Skoda T 27
+- France: leFH18B2, M10 RBFM (+ "Siroco" style), ELC EVEN 90, AMX 13 105, AMX 50 120
+- Germany: HWK 30, Löwe
+- Sweden: Lansen C (+ "Odin's Wolves" style), UDES 16
+- UK: Centurion I
+- USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T110E5, T78 (+ "Federalist" style)
+- USSR: Object 416, KV-1
+
+RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
+
+- Czechoslovakia: Skoda T-24
+- France: AMX ELC bis
+- Germany: Leopard PT A, E 50 M
+- Italy: P.43 Bis, P.43 Ter, P.44 Pantera (replaced with era-correct Breda MGs)
+- Poland: 40TP Habicha
+- UK: Alecto, Centurion I, Centurion 7/1 (replaced with .50 cal)
+- USA: Chrysler K / GF (split into two versions), XM551 Sheridan
+- USSR: T-45, ISU-152, T-54 ltwt. (DShK)
+- Optional Addons:
+	- China: Type 64 with DShK
+	- Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late" MGs (unhistorical; previously the standard versions) 
+	- Poland: 45TP Habicha with alternate DShK mount
+	- USSR: T-54 ltwt. with twin-KPVs
+
+RELEASE 2 (17. July - 24. August 2018, 30 vehicles)
+
+- China: Type 58
+- France: AMX 13 90
+- Germany: Pz IV H, Pz III/IV, Nashorn, VK 30.01 (P), VK 36.01 (H), Tiger (P), VK 45.03, Tiger II, VK 45.02 A, Jagdtiger, E 75, VK 45.02 B
+- Italy: Progetto M35 mod. 46
+- Japan: Ke-Ho, O-Ni
+- Poland: 14TP, 25TP KSUST II
+- Sweden: Ikv 103, Strv Leo, Ikv 90 B, Emil I, Emil II, Kranvagn
+- UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
+- USSR: IS-1 
+
+RELEASE 1 (19. June 2018, 23 vehicles)
+
+- France: AMX 13 57, AMX 13 57 GF, B-C 12 t
+- Italy: P.43 Bis, P.43 Ter, P.44 Pantera
+- Japan: O-I Exp., O-I, Chi-Ri
+- USA: M4 Improved, T14, M6A1, T20, T69, T32, Chrysler K GF
+- USSR: MT-25, LTG, SU-100M1, T-54 Ltwt., Object 257, ST-I
