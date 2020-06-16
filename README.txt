@@ -87,7 +87,7 @@ USSR:
 
 ADD-ONS (Optional):
 - China: Type 64 with DShK
-- France: leFH18B2 with rear doors open, EBR 75 FL-10 with .50-cal MG
+- France: leFH18B2 with opened rear superstructure doors, EBR 75 FL-10 with .50-cal MG
 - Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late-model" machine guns (unhistorical)
 - Poland: 45TP Habicha with alternate (simplified) DShK mount
 - UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
