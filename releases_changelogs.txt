@@ -16,7 +16,7 @@ RELEASE 6.0.0 (16. Jun 2020)
 
 - France: EBR 75 FL-10 (introducing as optional add-on due to an issue affecting display of large decals on turret)
 - USA: T78 (separated 3D style from main .wotmod; replaces .30-cal M1919A4 with .50-cal M2HB)
-- USSR: T-34-85M (alternate version with roof-mounted DP-28 LMG), T-103 (with 'Granite' twin-KPV machine gun platform [from IS-7 3d style])
+- USSR: T-34-85M (alternate version with roof-mounted DP-28 LMG), T-103 (with 'Granite' twin-KPV machine gun platform [from IS-7 3d style], included as add-on due to third-person visibility issues as a result of the turret + platform height)
 
 ===OTHER NOTABLE CHANGES:===
 
@@ -50,8 +50,7 @@ NEW VEHICLES (16):
 
 ADD-ONS (3):
 - France: leFH18B2 with rear doors open
-- USA: AE Phase 1 with single .50-cal
-- USSR: T-103 with 'Granite' machine gun platform (from IS-7 3d style) [note: included as add-on due to third-person visibility issues as a result of the turret + platform height]
+- USA: AE Phase 1 with single .50-cal 
 
 
 
