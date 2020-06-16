@@ -1,8 +1,8 @@
-MAIN VERSION ADDITIONS:
+CHANGELOG:
 
-RELEASE 6 (16. Jun 2020)
+RELEASE 6.0.0 (16. Jun 2020)
 
-- MAJOR OVERHAUL: Revisited all included vehicles, fixed display of projectionDecals (where possible)*, optimized internal file structure, extensively reworked some existing vehicles
+- MAJOR OVERHAUL: Revisited all 140+ included vehicles/addons, fixed display of projectionDecals (wherever possible)*, optimized internal file structures, extensively reworked some existing vehicles
 
 ===NEW VEHICLES (21):====
 
@@ -30,7 +30,13 @@ RELEASE 6 (16. Jun 2020)
 
 *Unfortunately, most vehicles with oscillating turrets still do not display decals correctly. Because of this, decal display has been disabled on the gun models of the following vehicles: AMX 13 57, AMX 13 90, AMX 13 105, AMX 50 120, B-C 12 t, Emil I, Emil II, Kranvagn, Manticore, T54E1, T69.
 
-RELEASE 5 (27. Jan 2020)
+
+
+//////////////////////////////////////////////////////
+
+
+
+RELEASE 5.0 (27. Jan 2020)
 
 NEW VEHICLES (16):
 - China: 59-Patton
@@ -48,6 +54,11 @@ ADD-ONS (3):
 - USSR: T-103 with 'Granite' machine gun platform (from IS-7 3d style) [note: included as add-on due to third-person visibility issues as a result of the turret + platform height]
 
 
+
+//////////////////////////////////////////////////////
+
+
+
 RELEASE 4 (29. April - 28. June, 2019, 21 vehicles)
 
 - Czechoslovakia: Skoda T 27
@@ -57,6 +68,12 @@ RELEASE 4 (29. April - 28. June, 2019, 21 vehicles)
 - UK: Centurion I
 - USA: T54E1, T29, T34, T34 Black, T30, T26E5, T26E5 Patriot, T110E5, T78 (+ "Federalist" style)
 - USSR: Object 416, KV-1
+
+
+
+//////////////////////////////////////////////////////
+
+
 
 RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
 
@@ -74,6 +91,12 @@ RELEASE 3 (16. December 2018,  17 vehicles + 6 addons)
 	- Poland: 45TP Habicha with alternate DShK mount
 	- USSR: T-54 ltwt. with twin-KPVs
 
+
+
+//////////////////////////////////////////////////////
+
+
+
 RELEASE 2 (17. July - 24. August 2018, 30 vehicles)
 
 - China: Type 58
@@ -85,6 +108,12 @@ RELEASE 2 (17. July - 24. August 2018, 30 vehicles)
 - Sweden: Ikv 103, Strv Leo, Ikv 90 B, Emil I, Emil II, Kranvagn
 - UK: FV4202 (P), Caernarvon, Centurion 7/1, Conqueror
 - USSR: IS-1 
+
+
+
+//////////////////////////////////////////////////////
+
+
 
 RELEASE 1 (19. June 2018, 23 vehicles)
 
