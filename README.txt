@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (125 Total as of v6.0.0):
+CURRENTLY INCLUDED VEHICLES (125 Total + 20 add-ons [as of v6.0.0]):
 
 CHINA:
 
