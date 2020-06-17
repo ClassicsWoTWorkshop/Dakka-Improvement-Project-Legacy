@@ -6,7 +6,7 @@ Thank you for downloading!
 
 - To install, drag the "CWW-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.9.1.0)
+(Example: C:\Games\World_of_Tanks\mods\1.9.1.1)
 
 - All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
