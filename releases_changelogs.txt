@@ -2,13 +2,15 @@ CHANGELOGS:
 
 6.0.1 (16. Jun 2020)
 
-NEW VEHICLES (1):
+ADDITIONAL NEW VEHICLES (1):
 - USSR: SU-130PM
 
 OTHER CHANGES:
 - Germany: Jagdtiger (remade using parts from Panzerschiff 3D style), Nashorn (fixed missing face on left MG mount, re-did cover plate AO)
 - UK: Centurion 7/1 (fixed incorrect g_detailUVTiling + reversed AO/ID paths in visual file [corrects display issues in-game])
 - USA: XM551 Sheridan (fixed incorrect g_detailUVTiling in visual file)
+
+//////////////////////////////////////////////////////
 
 RELEASE 6.0.0 (16. Jun 2020)
 
