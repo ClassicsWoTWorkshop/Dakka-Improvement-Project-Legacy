@@ -1,5 +1,20 @@
 CHANGELOGS:
 
+6.0.3 (19. Dec 2020)
+
+OTHER CHANGES:
+
+- Corrected issue which caused camo to display on VK 30.02 DB and Panther Vampir optics, when it was not supposed to
+
+//////////////////////////////////////////////////////
+
+6.0.2 (8. Sept 2020)
+
+OTHER CHANGES:
+- USA: Corrected M6A1 turret AOs to fix display of decals
+
+//////////////////////////////////////////////////////
+
 6.0.1 (16. Jun 2020)
 
 ADDITIONAL NEW VEHICLES (1):
