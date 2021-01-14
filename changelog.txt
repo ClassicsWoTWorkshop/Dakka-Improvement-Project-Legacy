@@ -3,7 +3,7 @@ CHANGELOGS:
 //////////////////////////////////////////////////////
 
 BETA 7.0.0-PRE1 (13 Jan 2021)
-[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES.]
+[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES. This portion of the changelog will be merged into the 7.0.0 release once it is finished.]
 
 ===NEW VEHICLES (4):====
 
