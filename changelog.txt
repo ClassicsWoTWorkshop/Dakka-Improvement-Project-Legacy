@@ -1,13 +1,5 @@
 CHANGELOGS:
 
-- China: 122 TM
-- France: Bat.-Châtillon Bourrasque
-- Germany: Sturer Emil, Kpz 50 t
-- Italy: Progetto CC54, Progetto C50
-- Poland: B.U.G.I., CS-59, CS-63
-- UK: GSOR 1008
-- USSR: KV-1S, Object 274a, IS-7
-
 //////////////////////////////////////////////////////
 
 BETA 7.0.0-PRE1 (13 Jan 2021)
