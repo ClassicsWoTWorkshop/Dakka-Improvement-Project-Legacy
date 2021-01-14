@@ -1,7 +1,9 @@
 CHANGELOGS:
 
+//////////////////////////////////////////////////////
 
 BETA 7.0.0-PRE1 (13 Jan 2021)
+[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES.]
 
 ===NEW VEHICLES (4):====
 
