@@ -1,6 +1,30 @@
 CHANGELOGS:
 
 
+BETA 7.0.0-PRE1 (13 Jan 2021)
+
+===NEW VEHICLES (4):====
+
+- Japan: Type 5 Heavy (4x 25mm Type 96 AA, Vickers 40mm MG [stowed], additional stowage)
+- Poland: CS-59 (cupola-mounted KPVT MG [rear-facing] + spotlight)
+- UK: GSOR 1008 (turret-mounted .30-cal MG + stowed Bren LMG)
+- USSR: IS-7 (raised KPV + stowed DShK)
+
+===NEW ADD-ONS (2):===
+
+- Poland: CS-59 (Alternate with rear-facing KPV)
+- USSR: IS-7 (Alternate without stowed DShK bag; only raised KPV)
+
+===OTHER NOTABLE CHANGES:===
+
+- UK: Added missing crashTileMap (absent by default) to Manticore gun model
+- USSR:  Relegated KV-85 to addons (to help visually distinguish from KV-122 / Object 244 in battle)
+- Misc: ??
+
+
+
+//////////////////////////////////////////////////////
+
 6.0.3 (19. Dec 2020)
 
 OTHER CHANGES:

@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (125 Total + 20 add-ons [as of v6.0.0]):
+CURRENTLY INCLUDED VEHICLES (128 Total + 23 add-ons [as of version 7.0.0]):
 
 CHINA:
 
@@ -50,12 +50,12 @@ JAPAN:
 
 - LT: Ke-Ho
 - MT: Chi-Ri
-- HT: Type 95 Heavy, O-I Exp., O-I, O-Ni, O-Ho
+- HT: Type 95 Heavy, O-I Exp., O-I, O-Ni, O-Ho, Type 5 Heavy
 
 POLAND: 
 
 - LT: 14TP
-- MT: 25TP KSUST II, 40TP Habicha
+- MT: 25TP KSUST II, 40TP Habicha, CS-59
 - HT: 45TP Habicha
 
 SWEDEN: 
@@ -69,7 +69,7 @@ UK:
 - LT: Manticore
 - MT: Chimera, FV4202 (P), Centurion I, Centurion 7/1
 - HT: Caernarvon, Conqueror, Super Conqueror
-- TD: Alecto, Turtle Mk. 1, Charioteer, Conway
+- TD: Alecto, Turtle Mk. 1, GSOR 1008, Charioteer, Conway
 
 USA: 
 
@@ -82,19 +82,19 @@ USSR:
 
 - LT: T-45, MT-25, LTG, LT-432, T-54 Ltwt.
 - MT: T-28E F-30, T-28, T-34-85M, T-34-85, Object 416
-- HT: KV-1, KV-2, KV-85, KV-122, IS-1, IS-3A, IS-2-II, IS-3-II, Object 257, ST-I
+- HT: KV-1, KV-2, KV-122, IS-1, IS-3A, IS-2-II, IS-3-II, Object 257, ST-I, IS-7
 - TD: SU-100M1, ISU-152, Object 263
 
 ADD-ONS (Optional):
 - China: Type 64 with DShK
 - France: leFH18B2 with opened rear superstructure doors, EBR 75 FL-10 with .50-cal MG
 - Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late-model" machine guns (unhistorical)
-- Poland: 45TP Habicha with alternate (simplified) DShK mount
+- Poland: 45TP Habicha with alternate (simplified) DShK mount, CS-59 with alternate rear-facing KPV
 - UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
 - USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear), AE Phase 1 with single .50-cal
-- USSR: T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' twin-KPV machine gun platform (from IS-7 3d style)
+- USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' twin-KPV machine gun platform (from IS-7 3d style), IS-7 without stowed DShK bag (only raised KPV)
 
-[IMPORTANT NOTE ON PROJECTION DECALS] Vehicles with oscillating turrets (AMX 13 105, Kranvagn, etc.) do not display projectionDecals properly with custom models. Therefore the display of these decals has been disabled on the gun models of the following vehicles: AMX 13 57, AMX 13 90, AMX 13 105, AMX 50 120, B-C 12 t, Emil I, Emil II, Kranvagn, Manticore, T54E1, T69.
+[IMPORTANT NOTE ON PROJECTION DECALS] Vehicles with oscillating turrets (AMX 13 105, Kranvagn, etc.) do not display projectionDecals properly with custom models. Therefore the display of these decals has been disabled on the gun models of the following vehicles: AMX 13 57, AMX 13 90, AMX 13 105, AMX 50 120, B-C 12 t, Emil I, Emil II, Kranvagn, GSOR 1008, Manticore, T54E1, T69.
 
 More vehicles are in the works, stay tuned for updates.
 
