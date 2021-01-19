@@ -1,5 +1,18 @@
 CHANGELOGS:
 
+
+BETA 7.0.0-PRE2 (19 Jan 2021)
+[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES. This portion of the changelog will be merged into the 7.0.0 release once it is finished.]
+
+===NEW VEHICLES (2):====
+
+- Germany: Kpz 50 t
+- Italy: Progetto C50 mod. 66
+
+===OTHER CHANGES:===
+
+- UK: Fixed mesh skinning issue on GSOR 1008 gun model, corrected text spacing on serial number
+
 //////////////////////////////////////////////////////
 
 BETA 7.0.0-PRE1 (13 Jan 2021)

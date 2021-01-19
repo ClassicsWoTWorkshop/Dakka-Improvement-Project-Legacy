@@ -38,13 +38,14 @@ FRANCE:
 GERMANY:
 
 - LT: HWK 30
-- MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 P, Panther, VK 30.02 DB, Leopard PT A, E 50 Ausf. M
+- MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 P, Panther, VK 30.02 DB, Leopard PT A, Kpz 50 t, E 50 Ausf. M
 - HT: VK 36.01 H, Tiger (P), VK 45.03, Löwe, VK 75.01 K, E 75 TS, Tiger II, VK 45.02 A, VK 100.01 P, E 75, VK 45.02 B
 - TD: Nashorn, Jagdtiger
 
 ITALY: 
 
-- P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46 (+ "Safari Corazzato" 3D style)
+- MT: P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46 (+ "Safari Corazzato" 3D style)
+- HT: Progetto C50 mod. 66
 
 JAPAN: 
 
