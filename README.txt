@@ -18,73 +18,75 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (128 Total + 23 add-ons [as of version 7.0.0]):
+CURRENTLY INCLUDED VEHICLES (134 Total + 18 add-ons [as of version 7.0.0-pre2]):
 
-CHINA:
+CHINA (3):
 
-- Type T-34, Type 58, 59-Patton
+- MT: Type T-34, Type 58, 59-Patton
 
-CZECHOSLOVAKIA:
+CZECHOSLOVAKIA (2):
 
-- Škoda T-24, Škoda T-27
+- MT: Škoda T-24, Škoda T-27
 
-FRANCE: 
+FRANCE (14): 
 
 - LT: AMX ELC bis, AMX 13 57, AMX 13 57 GF, B-C 12 t, ELC EVEN 90, Lynx 6x6, AMX 13 90, AMX 13 105, EBR 105
 - HT: FCM 50 t, AMX 50 120
 - TD: M10 RBFM (+ "Siroco" 3D style)
 - SPG: leFH18B2
 
-GERMANY:
+GERMANY (22):
 
 - LT: HWK 30
 - MT: Pz. IV Ausf. H, Pz. III/IV, VK 30.01 P, Panther, VK 30.02 DB, Leopard PT A, Kpz 50 t, E 50 Ausf. M
 - HT: VK 36.01 H, Tiger (P), VK 45.03, Löwe, VK 75.01 K, E 75 TS, Tiger II, VK 45.02 A, VK 100.01 P, E 75, VK 45.02 B
 - TD: Nashorn, Jagdtiger
 
-ITALY: 
+ITALY (7): 
 
 - MT: P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46 (+ "Safari Corazzato" 3D style)
-- HT: Progetto C50 mod. 66
+- HT: Progetto CC55 mod. 54, Progetto C50 mod. 66
 
-JAPAN: 
+JAPAN (8): 
 
 - LT: Ke-Ho
 - MT: Chi-Ri
 - HT: Type 95 Heavy, O-I Exp., O-I, O-Ni, O-Ho, Type 5 Heavy
 
-POLAND: 
+POLAND (5): 
 
 - LT: 14TP
 - MT: 25TP KSUST II, 40TP Habicha, CS-59
 - HT: 45TP Habicha
 
-SWEDEN: 
+SWEDEN (9): 
 
 - MT: Strv Leo, Lansen C (+ "Odin's Wolves" 3D style), UDES 16
 - HT: Emil I, Emil II, Kranvagn
 - TD: Ikv 103, Ikv 90 B
 
-UK: 
+UK (13): 
 
 - LT: Manticore
 - MT: Chimera, FV4202 (P), Centurion I, Centurion 7/1
 - HT: Caernarvon, Conqueror, Super Conqueror
 - TD: Alecto, Turtle Mk. 1, GSOR 1008, Charioteer, Conway
 
-USA: 
+USA (25): 
 
 - LT: XM551 Sheridan
 - MT: T6 Medium, M4 Improved, T20, TL-1 LPC, T69, T54E1, M48A5 Patton
 - HT: T14, M6A1, T29, M6A2E1, T26E5, T26E5 Patriot, T32, T34, T34 Black, Chrysler K, Chrysler K GF, AE Phase 1, Concept 1B, T110E5
 - TD: T78, T28 HTC, T30
 
-USSR: 
+USSR (23): 
 
 - LT: T-45, MT-25, LTG, LT-432, T-54 Ltwt.
 - MT: T-28E F-30, T-28, T-34-85M, T-34-85, Object 416
 - HT: KV-1, KV-2, KV-122, IS-1, IS-3A, IS-2-II, IS-3-II, Object 257, ST-I, IS-7
 - TD: SU-100M1, ISU-152, Object 263
+
+/////////////////////////////////////////////////////////////////
 
 ADD-ONS (Optional):
 - China: Type 64 with DShK
@@ -95,7 +97,13 @@ ADD-ONS (Optional):
 - USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear), AE Phase 1 with single .50-cal
 - USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' twin-KPV machine gun platform (from IS-7 3d style), IS-7 without stowed DShK bag (only raised KPV)
 
+
+/////////////////////////////////////////////////////////////////
+
 [IMPORTANT NOTE ON PROJECTION DECALS] Vehicles with oscillating turrets (AMX 13 105, Kranvagn, etc.) do not display projectionDecals properly with custom models. Therefore the display of these decals has been disabled on the gun models of the following vehicles: AMX 13 57, AMX 13 90, AMX 13 105, AMX 50 120, B-C 12 t, Emil I, Emil II, Kranvagn, GSOR 1008, Manticore, T54E1, T69.
+
+/////////////////////////////////////////////////////////////////
+
 
 More vehicles are in the works, stay tuned for updates.
 
