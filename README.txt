@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (134 Total + 18 add-ons [as of version 7.0.0-pre2]):
+CURRENTLY INCLUDED VEHICLES (135 Total + 18 add-ons [as of version 7.0.0-pre2]):
 
 CHINA (3):
 
@@ -42,10 +42,10 @@ GERMANY (22):
 - HT: VK 36.01 H, Tiger (P), VK 45.03, Löwe, VK 75.01 K, E 75 TS, Tiger II, VK 45.02 A, VK 100.01 P, E 75, VK 45.02 B
 - TD: Nashorn, Jagdtiger
 
-ITALY (7): 
+ITALY (8): 
 
 - MT: P.43 Bis, P.43 Ter, P.44 Pantera, Progetto M35 mod. 46 (+ "Safari Corazzato" 3D style)
-- HT: Progetto CC55 mod. 54, Progetto C50 mod. 66
+- HT: Progetto CC55 mod. 54, Progetto C50 mod. 66, Rinoceronte
 
 JAPAN (8): 
 
