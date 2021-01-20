@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (135 Total + 18 add-ons [as of version 7.0.0-pre2]):
+CURRENTLY INCLUDED VEHICLES (136 Total + 18 add-ons [as of version 7.0.0-pre2]):
 
 CHINA (3):
 
@@ -59,11 +59,11 @@ POLAND (5):
 - MT: 25TP KSUST II, 40TP Habicha, CS-59
 - HT: 45TP Habicha
 
-SWEDEN (9): 
+SWEDEN (10): 
 
 - MT: Strv Leo, Lansen C (+ "Odin's Wolves" 3D style), UDES 16
 - HT: Emil I, Emil II, Kranvagn
-- TD: Ikv 103, Ikv 90 B
+- TD: Ikv 103, Ikv 90 B, UDES 03
 
 UK (13): 
 
