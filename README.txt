@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (136 Total + 18 add-ons [as of version 7.0.0-pre2]):
+CURRENTLY INCLUDED VEHICLES (137 Total + 18 add-ons [as of version 7.0.0-pre2]):
 
 CHINA (3):
 
@@ -28,10 +28,10 @@ CZECHOSLOVAKIA (2):
 
 - MT: Škoda T-24, Škoda T-27
 
-FRANCE (14): 
+FRANCE (15): 
 
 - LT: AMX ELC bis, AMX 13 57, AMX 13 57 GF, B-C 12 t, ELC EVEN 90, Lynx 6x6, AMX 13 90, AMX 13 105, EBR 105
-- HT: FCM 50 t, AMX 50 120
+- HT: BDR G1 B, ARL 44, FCM 50 t, AMX 50 120
 - TD: M10 RBFM (+ "Siroco" 3D style)
 - SPG: leFH18B2
 
