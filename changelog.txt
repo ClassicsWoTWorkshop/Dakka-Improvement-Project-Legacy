@@ -1,28 +1,15 @@
 CHANGELOGS:
 
 
-BETA 7.0.0-PRE2 (19-24 Jan 2021)
-[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES. This portion of the changelog will be merged into the 7.0.0 release once it is finished.]
+RELEASE 7.0.0 (25 Jan 2021)
 
-===NEW VEHICLES (6):====
+===NEW VEHICLES (10):====
 
-- France: BDR G1 B
-- Germany: Kpz 50 t
-- Italy: Progetto CC55 mod. 54, Progetto C50 mod. 66, Rinoceronte
-- Sweden: UDES 03
-
-===OTHER CHANGES:===
-
-- UK: Fixed mesh skinning issue on GSOR 1008 gun model, corrected text spacing on serial number
-
-//////////////////////////////////////////////////////
-
-BETA 7.0.0-PRE1 (13 Jan 2021)
-[NOTE: THIS IS A PRE-RELEASE BUILD, WHICH MAY CONTAIN ISSUES. This portion of the changelog will be merged into the 7.0.0 release once it is finished.]
-
-===NEW VEHICLES (4):====
-
+- France: BDR G1 B (roof-mounted 25mm mle. 1936 autocannon + Mordian extended MG barrel)
+- Germany: Kpz 50 t (cupola-mounted MG3)
+- Italy: Progetto CC55 mod. 54 (roof-mounted MG 42/59), Progetto C50 mod. 66 (cupola-mounted MG 42/59 + roof-mounted remote MG turret), Rinoceronte (cupola-mounted MG 42/59)
 - Japan: Type 5 Heavy (4x 25mm Type 96 AA, Vickers 40mm MG [stowed], additional stowage)
+- Sweden: UDES 03 (roof-mounted Ksp 58 MG + modelled exterior fans)
 - Poland: CS-59 (cupola-mounted KPVT MG [rear-facing] + spotlight)
 - UK: GSOR 1008 (turret-mounted .30-cal MG + stowed Bren LMG)
 - USSR: IS-7 (raised KPV + stowed DShK)
@@ -30,17 +17,18 @@ BETA 7.0.0-PRE1 (13 Jan 2021)
 ===NEW ADD-ONS (2):===
 
 - Poland: CS-59 (Alternate with rear-facing KPV)
-- USSR: IS-7 (Alternate without stowed DShK bag; only raised KPV)
+- USSR: IS-7 (Alternate without stowed DShK bag [only raised KPV])
 
 ===OTHER NOTABLE CHANGES:===
 
-- UK: Added missing crashTileMap (absent by default) to Manticore gun model
-- USSR:  Relegated KV-85 to addons (to help visually distinguish from KV-122 / Object 244 in battle)
-- Misc: ??
+- UK: Added missing crashTileMap (absent by WG default) to Manticore gun model
+- USSR:  Relegated KV-85 to addons in order to help visually distinguish from KV-122 / Object 244 in battle
 
 
 
 //////////////////////////////////////////////////////
+
+
 
 6.0.3 (19. Dec 2020)
 
