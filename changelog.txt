@@ -1,7 +1,7 @@
 CHANGELOGS:
 
 
-RELEASE 7.0.0 (25 Jan 2021)
+RELEASE 7.0.0 (3 Feb 2021)
 
 ===NEW VEHICLES (10):====
 
