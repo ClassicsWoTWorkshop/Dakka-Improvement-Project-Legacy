@@ -6,7 +6,7 @@ Thank you for downloading!
 
 - To install, drag the "CWW-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.11.0.0)
+(Example: C:\Games\World_of_Tanks\mods\1.11.1.2)
 
 - All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
@@ -18,15 +18,15 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (137 Total + 18 add-ons [as of version 7.0.0-pre2]):
+CURRENTLY INCLUDED VEHICLES (137 Total + 18 add-ons [as of version 7.0.0]):
 
 CHINA (3):
 
 - MT: Type T-34, Type 58, 59-Patton
 
-CZECHOSLOVAKIA (2):
+CZECHOSLOVAKIA (3):
 
-- MT: Škoda T-24, Škoda T-27
+- MT: Škoda T-24, T-34/100, Škoda T-27
 
 FRANCE (15): 
 
