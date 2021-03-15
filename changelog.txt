@@ -1,6 +1,22 @@
 CHANGELOGS:
 
 
+//////////////////////////////////////////////////////
+
+7.1.0 (13-?? Mar 2021)
+
+UPDATED VEHICLES (???):
+
+- China: 59-Patton (Added spotlight above gun upon user request  + relegated old version to addons)
+- USA: M48A5 (Added gun mantlet canvas cover with additional M2 .50-cal, graciously modified + provided by Mirukii)
+
+OTHER CHANGES:
+
+- France: Fixed texture paths for MG leading to AMX 13 105, causing texture errors when the 13 105 was removed by the user
+- USA: Corrected issue which caused camo to display on M6A2E1 roof machine gun, when it was not supposed to
+
+//////////////////////////////////////////////////////
+
 RELEASE 7.0.0 (3 Feb 2021)
 
 ===NEW VEHICLES (10):====
@@ -22,7 +38,7 @@ RELEASE 7.0.0 (3 Feb 2021)
 ===OTHER NOTABLE CHANGES:===
 
 - UK: Added missing crashTileMap (absent by WG default) to Manticore gun model
-- USSR:  Relegated KV-85 to addons in order to help visually distinguish from KV-122 / Object 244 in battle
+- USSR: Relegated KV-85 to addons in order to help visually distinguish from KV-122 / Object 244 in battle
 
 
 
@@ -41,6 +57,7 @@ OTHER CHANGES:
 6.0.2 (8. Sept 2020)
 
 OTHER CHANGES:
+
 - USA: Corrected M6A1 turret AOs to fix display of decals
 
 //////////////////////////////////////////////////////
