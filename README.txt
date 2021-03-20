@@ -18,7 +18,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (137 Total + 18 add-ons [as of version 7.0.0]):
+CURRENTLY INCLUDED VEHICLES (137 Total + 20 add-ons [as of version 7.1.0]):
 
 CHINA (3):
 
@@ -75,8 +75,8 @@ UK (13):
 USA (25): 
 
 - LT: XM551 Sheridan
-- MT: T6 Medium, M4 Improved, T20, TL-1 LPC, T69, T54E1, M48A5 Patton
-- HT: T14, M6A1, T29, M6A2E1, T26E5, T26E5 Patriot, T32, T34, T34 Black, Chrysler K, Chrysler K GF, AE Phase 1, Concept 1B, T110E5
+- MT: T6 Medium, M4 Improved, T20, TL-1 LPC, T69, M48A5 Patton
+- HT: T14, M6A1, T29, M6A2E1, T26E5, T26E5 Patriot, T32, T34, T34 Black, Chrysler K, Chrysler K GF, AE Phase 1, Concept 1B, T54E1, T110E5
 - TD: T78, T28 HTC, T30
 
 USSR (23): 
@@ -89,12 +89,12 @@ USSR (23):
 /////////////////////////////////////////////////////////////////
 
 ADD-ONS (Optional):
-- China: Type 64 with DShK
+- China: Type 64 with DShK, 59-Patton with no spotlight over gun
 - France: leFH18B2 with opened rear superstructure doors, EBR 75 FL-10 with .50-cal MG
 - Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late-model" machine guns (unhistorical)
 - Poland: 45TP Habicha with alternate (simplified) DShK mount, CS-59 with alternate rear-facing KPV
 - UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
-- USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear), AE Phase 1 with single .50-cal
+- USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear), AE Phase 1 with single .50-cal, M48A5 with stock gun mantlet + spotlight
 - USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' twin-KPV machine gun platform (from IS-7 3d style), IS-7 without stowed DShK bag (only raised KPV)
 
 

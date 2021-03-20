@@ -3,24 +3,24 @@ CHANGELOGS:
 
 //////////////////////////////////////////////////////
 
-7.1.0 (13-?? Mar 2021)
 
-UPDATED VEHICLES (2 so far):
+7.1.0 (13-14 Mar 2021)
 
+===UPDATED VEHICLES (2 so far):===
 - China: 59-Patton (Added spotlight above gun upon user request)
 - USA: M48A5 (Added gun mantlet canvas cover with additional M2 .50-cal, graciously modified + provided by Mirukii)
 
-ADD-ONS (2):
-
+===ADD-ONS (2):===
 - China: Relegated old 59-Patton (sans-spotlight) to addons
 - USA: Relegated old M48A5 (with spotlight + no canvas cover) to addons
 
-OTHER CHANGES:
-
+===OTHER CHANGES:===
 - France: Fixed texture paths for MG leading to AMX 13 105, causing texture errors when the 13 105 was removed by the user
 - USA: Corrected issue which caused camo to display on M6A2E1 roof machine gun when it was not supposed to
 
+
 //////////////////////////////////////////////////////
+
 
 RELEASE 7.0.0 (3 Feb 2021)
 
