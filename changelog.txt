@@ -3,6 +3,14 @@ CHANGELOGS:
 
 //////////////////////////////////////////////////////
 
+7.1.1 (30 Mar 2021)
+
+OTHER CHANGES:
+
+- Corrected issue which caused M48A5 gun/mantlet model to display backwards at a distance
+
+//////////////////////////////////////////////////////
+
 
 7.1.0 (13-14 Mar 2021)
 
