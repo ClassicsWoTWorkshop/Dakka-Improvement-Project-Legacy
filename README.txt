@@ -4,6 +4,7 @@ Thank you for downloading!
 === INSTALL INSTRUCTIONS ===
 ////////////////////////////
 
+
 - To install, drag the "CWW-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
 (Example: C:\Games\World_of_Tanks\mods\1.12.1.0)
@@ -12,9 +13,11 @@ Thank you for downloading!
 
 - ADD-ONS (OPTIONAL): Alternate configurations for a few individual vehicles have been included as optional add-ons, found within the "ADD-ONS - Alternate Configs" folder. To install any of these, drag "CWW-Dakka-Improvement-Project" from within the option folder(s) of your choice to <Your WoT Directory>\mods\<Game Version> and overwrite any existing files as necessary.
 
+
 ////////////////
 === MOD INFO ===
 ////////////////
+
 
 Adds more dakka to a large selection of vehicles.
 
