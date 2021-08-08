@@ -1,7 +1,28 @@
 CHANGELOGS:
 
+8.0.0 pre0 (7 Aug 2021)
+
+===UPDATED VEHICLES (1):===
+
+- USA: Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares)
+
+===NEW VEHICLES (?):===
+
+- ???
+
+===NEW ADD-ONS (?):===
+
+- ???
+
+===OTHER NOTABLE CHANGES:===
+
+- ITA: Corrected minor mesh smoothing issue with Rinoceronte turret periscope
+
+
 
 //////////////////////////////////////////////////////
+
+
 
 7.1.1 (30 Mar 2021)
 
@@ -14,7 +35,7 @@ OTHER CHANGES:
 
 7.1.0 (13-14 Mar 2021)
 
-===UPDATED VEHICLES (2 so far):===
+===UPDATED VEHICLES (2):===
 - China: 59-Patton (Added spotlight above gun upon user request)
 - USA: M48A5 (Added gun mantlet canvas cover with additional M2 .50-cal, graciously modified + provided by Mirukii)
 
@@ -23,7 +44,7 @@ OTHER CHANGES:
 - USA: Relegated old M48A5 (with spotlight + no canvas cover) to addons
 
 ===OTHER CHANGES:===
-- France: Fixed texture paths for MG leading to AMX 13 105, causing texture errors when the 13 105 was removed by the user
+- France: Fixed texture paths for EBR 75 FL-10 MG leading to AMX 13 105, causing texture errors when the 13 105 was removed by the user
 - USA: Corrected issue which caused camo to display on M6A2E1 roof machine gun when it was not supposed to
 
 
@@ -32,7 +53,7 @@ OTHER CHANGES:
 
 RELEASE 7.0.0 (3 Feb 2021)
 
-===NEW VEHICLES (10):====
+===NEW VEHICLES (10):===
 
 - France: BDR G1 B (roof-mounted 25mm mle. 1936 autocannon + Mordian extended MG barrel)
 - Germany: Kpz 50 t (cupola-mounted MG3)
