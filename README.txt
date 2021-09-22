@@ -7,7 +7,7 @@ Thank you for downloading!
 
 - To install, drag the "CWW-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.12.1.0)
+(Example: C:\Games\World_of_Tanks\mods\1.14.0.4)
 
 - All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
@@ -21,7 +21,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (137 Total + 20 add-ons [as of version 7.1.0]):
+CURRENTLY INCLUDED VEHICLES (138 Total + 22 add-ons [as of version 7.1.0]):
 
 CHINA (3):
 
@@ -73,7 +73,7 @@ UK (13):
 - LT: Manticore
 - MT: Chimera, FV4202 (P), Centurion I, Centurion 7/1
 - HT: Caernarvon, Conqueror, Super Conqueror
-- TD: Alecto, Turtle Mk. 1, GSOR 1008, Charioteer, Conway
+- TD: Alecto, Turtle Mk. 1, GSOR 1008, Charioteer, Conway, FV4005
 
 USA (25): 
 

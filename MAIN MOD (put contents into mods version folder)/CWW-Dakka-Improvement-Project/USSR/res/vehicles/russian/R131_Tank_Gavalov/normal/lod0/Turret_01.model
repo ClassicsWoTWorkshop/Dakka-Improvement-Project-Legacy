@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.10432 0.000184402 -1.91273</min>
+    <max>1.10415 2.64528 1.20596</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/russian/R131_Tank_Gavalov/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>
