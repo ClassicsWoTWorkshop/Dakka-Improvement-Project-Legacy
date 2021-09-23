@@ -1,6 +1,6 @@
 CHANGELOGS:
 
-8.0.0 pre0 (7 Aug 2021)
+8.0.0 pre2 (WIP PRE-RELEASE 2, 22 Sept 2021)
 
 ===UPDATED VEHICLES (1):===
 
@@ -8,7 +8,8 @@ CHANGELOGS:
 
 ===NEW VEHICLES (?):===
 
-- ???
+- UK: FV4005
+- USA: ASTRON Rex 105 mm
 
 ===NEW ADD-ONS (?):===
 
