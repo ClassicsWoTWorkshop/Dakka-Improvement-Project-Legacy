@@ -1,14 +1,33 @@
 CHANGELOGS:
 
-8.0.0 pre2 (WIP PRE-RELEASE 2, 22 Sept 2021)
+8.0.0 pre3 (WIP PRE-RELEASE 2, 08 Oct 2021)
 
-===UPDATED VEHICLES (1):===
+===MAJOR OVERHAUL: OPTIMIZATIONS===
 
-- USA: Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares)
+- A number of shared textures which some older vehicles used for their added machine guns have been consolidated into one core .wotmod file. This has been done to reduce the overall filesize of the pack, as well as to hopefully reduce in-game resource overhead a bit.
+- These vehicles have also received an update to their .model files, which allows for their stock LoDs to be loaded at long distances from the player's view. This should allow for the game render far-away vehicles with a bit less of a performance hit on lower-spec systems. At the same time however, the distance at which these LoDs load in has been set to hopefully prevent the added machineguns/etc. from disappearing within observable distances.
+- Additionally, several of these vehicles have been updated slightly beyond the above changes.
+
+LIST OF CHANGED VEHICLES (82):
+
+- CZE: Škoda T-24
+- FRE: AMX ELC bis, AMX 13 57/GF, B-C 12 t, ELC EVEN 90, AMX 13 90, AMX 13 105, ARL 44, FCM 50 t, Lynx 6x6
+- GER: Pz. III/IV, Pz. IV H, Panther, VK 30.02 DB, VK 30.01 (P), VK 36.01 (H), VK 45.03, Tiger (P), Löwe, Tiger II, VK 100.01 (P), VK 45.02 A, VK 45.02 B, E 75
+- ITA: P.43 ter, P.44 Pantera, Progetto 46 + "Safari Corazzato" 3D Style
+- JPN: Ke-Ho, Chi-Nu, Chi-Ri, O-I Exp., O-I, O-Ni, O-Ho Ke-Ho, Type 5 Heavy
+- POL: 25TP KSUST II, 40TP Habicha
+- SWE: Strv Leo, Lansen C + "Wolves of Odin" 3D Style, EMIL I, EMIL II, Kranvagn, Ikv 103, Ikv 90 B
+- UK: Manticore, Centurion I, Caernarvon, Super Conqueror, Conway
+- USA: T6 Medium, M4 Improved, T20, T69, T14, M6A1, T29, Chrysler K/GF, T26E5/Patriot, T34/B, T32, AE Phase 1, T54E1, T110E5, T30
+- USSR: T-45, MT-25, LTG, T-54 ltwt, T-28E F-30, T-28, KV-1, KV-2, IS-2-II, Object 257
+
+===UPDATED VEHICLES (3):===
+
+- USA: Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares); T110E5 & AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
 
 ===NEW VEHICLES (?):===
 
-- UK: FV4005
+- UK: Centurion I "A Mari Usque ad Mare" 3D Style, FV4005
 - USA: ASTRON Rex 105 mm
 
 ===NEW ADD-ONS (?):===
@@ -18,7 +37,7 @@ CHANGELOGS:
 ===OTHER NOTABLE CHANGES:===
 
 - ITA: Corrected minor mesh smoothing issue with Rinoceronte turret periscope
-
+- Misc: Corrected LOD issues with several vehicles' turret models
 
 
 //////////////////////////////////////////////////////
