@@ -1,6 +1,6 @@
 CHANGELOGS:
 
-8.0.0 pre3 (WIP PRE-RELEASE 2, 08 Oct 2021)
+8.0.0 pre3.1 (WIP PRE-RELEASE 3.1, 16 Oct 2021)
 
 ===MAJOR OVERHAUL: OPTIMIZATIONS===
 
@@ -27,6 +27,7 @@ LIST OF CHANGED VEHICLES (82):
 
 ===NEW VEHICLES (?):===
 
+- FRE: AltProto AMX 30
 - UK: Centurion I "A Mari Usque ad Mare" 3D Style, FV4005
 - USA: ASTRON Rex 105 mm
 
@@ -34,10 +35,12 @@ LIST OF CHANGED VEHICLES (82):
 
 - ???
 
-===OTHER NOTABLE CHANGES:===
+===OTHER CHANGES:===
 
 - ITA: Corrected minor mesh smoothing issue with Rinoceronte turret periscope
-- Misc: Corrected LOD issues with several vehicles' turret models
+- UK: Fixed minor display issue with GSOR 1008 gun/turret body, which caused the paint selector to render strangely in the exterior customization menu
+- USA: Fixed minor display issue with Concept 1B gun equipment, which caused the paint selector to render strangely in the exterior customization menu
+- Misc: Corrected LOD issues with several vehicles' turret models, which caused them to disappear at close distances
 
 
 //////////////////////////////////////////////////////
