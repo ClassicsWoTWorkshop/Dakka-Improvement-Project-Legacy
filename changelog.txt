@@ -1,6 +1,38 @@
 CHANGELOGS:
 
-8.0.0 pre3.1 (WIP PRE-RELEASE 3.1, 16 Oct 2021)
+8.0.0 (7 Dec 2021)
+
+===NEW (SEPARATE) PACK: DAKKA PLUS===
+
+THE DAKKA IMPROVEMENT PROJECT HAS NOW BEEN SPLIT INTO TWO SEPARATE PACKS! This one (now known as the Legacy version) will include the bulk of the existing content, while the newer "Dakka Plus" pack will contain all of the new content going forward. 
+
+This has been done in order to separate the more complex remodels from the larger set of simple models (the ones which simply add a machine gun and nothing else), as well as for other reasons including ease of downloading, smaller filesize, simpler updating process, etc.
+
+As such, a number of existing vehicles have been moved to the new pack. Do not fret -- these vehicles are still available, just as part of a separate pack (which will take the place of the old one when it comes to new content updates). Between the two packs, NO REMODELS HAVE BEEN ENTIRELY REMOVED (any remodels which are no longer included here are now in Dakka Plus).
+
+LIST OF VEHICLES MOVED TO DAKKA PLUS (13):
+
+- CZECHOSLOVAKIA (1): Škoda T-27
+- FRANCE (1): BDR G1 B
+- GERMANY (1): Jagdtiger
+- ITALY (3): Progetto 54, Progetto 66
+- JAPAN (1): Type 5 Heavy
+- POLAND (1): CS-59
+- SWEDEN (1): UDES 03
+- UK (3): Centurion 7/1
+- USA (5): XM551 Sheridan, M48A5 Patton, AE Phase 1, Concept 1B, T28 HTC
+- USSR (1): IS-7
+
+Head over to the Dakka Plus pack for these vehicles, including several major overhauls + some brand-new ones!
+
+NOTE: a few vehicles from the above list had their add-on versions replace their standard versions in the Legacy pack (meaning, they have not been entirely removed from this pack). These are as follows:
+
+- POLAND (1): CS-59 (MG facing rearwards)
+- USA (3): M48A5 Patton (stock mantlet), AE Phase 1 (single MG), T28 HTC (single MG)
+- USSR (1): IS-7 (single upright MG)
+
+As such, a total of eight (8) vehicles are no longer included in this pack. As mentioned earlier, THESE ALL STILL EXIST -- they can simply be found in the Dakka Plus pack.
+
 
 ===MAJOR OVERHAUL: OPTIMIZATIONS===
 
@@ -8,39 +40,39 @@ CHANGELOGS:
 - These vehicles have also received an update to their .model files, which allows for their stock LoDs to be loaded at long distances from the player's view. This should allow for the game render far-away vehicles with a bit less of a performance hit on lower-spec systems. At the same time however, the distance at which these LoDs load in has been set to hopefully prevent the added machineguns/etc. from disappearing within observable distances.
 - Additionally, several of these vehicles have been updated slightly beyond the above changes.
 
-LIST OF CHANGED VEHICLES (82):
+LIST OF CHANGED VEHICLES (79):
 
 - CZE: Škoda T-24
 - FRE: AMX ELC bis, AMX 13 57/GF, B-C 12 t, ELC EVEN 90, AMX 13 90, AMX 13 105, ARL 44, FCM 50 t, Lynx 6x6
 - GER: Pz. III/IV, Pz. IV H, Panther, VK 30.02 DB, VK 30.01 (P), VK 36.01 (H), VK 45.03, Tiger (P), Löwe, Tiger II, VK 100.01 (P), VK 45.02 A, VK 45.02 B, E 75
 - ITA: P.43 ter, P.44 Pantera, Progetto 46 + "Safari Corazzato" 3D Style
-- JPN: Ke-Ho, Chi-Nu, Chi-Ri, O-I Exp., O-I, O-Ni, O-Ho Ke-Ho, Type 5 Heavy
+- JPN: Ke-Ho, Chi-Nu, Chi-Ri, O-I Exp., O-I, O-Ni, O-Ho Ke-Ho
 - POL: 25TP KSUST II, 40TP Habicha
 - SWE: Strv Leo, Lansen C + "Wolves of Odin" 3D Style, EMIL I, EMIL II, Kranvagn, Ikv 103, Ikv 90 B
 - UK: Manticore, Centurion I, Caernarvon, Super Conqueror, Conway
-- USA: T6 Medium, M4 Improved, T20, T69, T14, M6A1, T29, Chrysler K/GF, T26E5/Patriot, T34/B, T32, AE Phase 1, T54E1, T110E5, T30
+- USA: T6 Medium, M4 Improved, T20, T69, T14, M6A1, T29, Chrysler K/GF, T26E5/Patriot, T34/B, T32, T54E1, T30
 - USSR: T-45, MT-25, LTG, T-54 ltwt, T-28E F-30, T-28, KV-1, KV-2, IS-2-II, Object 257
 
-===UPDATED VEHICLES (3):===
+===NEW VEHICLES:===
 
-- USA: Concept 1B (added M2 Browning + AN/VSS-1 searchlight + training flares); T110E5 & AE Phase 1 (overhauled twin-MG mount to fix several texture stretching + camouflage scaling issues)
+As stated above, most of the new vehicles slated for this update can be found in the new "Dakka Plus" pack. While this is not necessarily the final content update for the Legacy pack, new content will primarily release in the "Dakka Plus" pack instead. 
 
-===NEW VEHICLES (?):===
+However, two additions have been made to this (the Legacy) pack:
+- UK: Centurion I "A Mari Usque ad Mare" 3D Style now supported
+- USA (all-new): ASTRON Rex 105 mm
 
-- FRE: AltProto AMX 30
-- UK: Centurion I "A Mari Usque ad Mare" 3D Style, FV4005
-- USA: ASTRON Rex 105 mm
-
-===NEW ADD-ONS (?):===
-
-- ???
-
+ 
 ===OTHER CHANGES:===
 
 - ITA: Corrected minor mesh smoothing issue with Rinoceronte turret periscope
-- UK: Fixed minor display issue with GSOR 1008 gun/turret body, which caused the paint selector to render strangely in the exterior customization menu
-- USA: Fixed minor display issue with Concept 1B gun equipment, which caused the paint selector to render strangely in the exterior customization menu
-- Misc: Corrected LOD issues with several vehicles' turret models, which caused them to disappear at close distances
+
+- POL: Moved rear-facing MG (addon) version of CS-59 into the standard pack from addons, since the original version was moved to Dakka Plus
+
+- USA: Moved single-MG (addon) versions of AE Phase 1 + T28 HTC into the standard pack from addons, since the twin-MG version was moved to Dakka Plus; reverted to original version of M48A5 Patton (newer version with cloth mantlet cover + no spotlight was moved to Dakka Plus)
+
+- USSR: Fixed camo scaling on IS-3A + ST-I turret MGs; moved single-MG version of IS-7 into the standard pack from addons, since the version with the extra bag was moved to Dakka Plus
+
+- Misc: Corrected LOD issues with several vehicles' turret models, which caused them to disappear at close distances; corrected internal mod descriptions for vehicles fitted with Ckm typ C (14TP, 25TP, 40TP, T-34-85); IMPORTANT: mod folder has been renamed to "CWW-Legacy-Dakka-Improvement-Project" for load order reasons (Dakka Plus mods should load over their Legacy counterparts).
 
 
 //////////////////////////////////////////////////////
