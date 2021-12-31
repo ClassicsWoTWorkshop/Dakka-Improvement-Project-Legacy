@@ -97,7 +97,7 @@ ADD-ONS (Optional):
 - Poland: 45TP Habicha with alternate (simplified) DShK mount
 - UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
 - USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear)
-- USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' twin-KPV machine gun platform (from IS-7 3d style)
+- USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' ZPU-2 machine gun platform (from IS-7 3d style)
 
 
 /////////////////////////////////////////////////////////////////

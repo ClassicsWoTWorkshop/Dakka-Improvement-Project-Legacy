@@ -1,12 +1,20 @@
 CHANGELOGS:
 
+8.0.x (31 Dec 2021-)
+
+OTHER CHANGES:
+
+- Chrysler GF - fixed an issue which caused progression decal transparency to display incorrectly on the turret
+
+//////////////////////////////////////////////////////
+
 8.0.0 (7 Dec 2021)
 
 ===NEW (SEPARATE) PACK: DAKKA PLUS===
 
 THE DAKKA IMPROVEMENT PROJECT HAS NOW BEEN SPLIT INTO TWO SEPARATE PACKS! This one (now known as the Legacy version) will include the bulk of the existing content, while the newer "Dakka Plus" pack will contain all of the new content going forward. 
 
-This has been done in order to separate the more complex remodels from the larger set of simple models (the ones which simply add a machine gun and nothing else), as well as for other reasons including ease of downloading, smaller filesize, simpler updating process, etc.
+This has been done in order to separate the more complex remodels from the much larger set of simple models (the ones which simply add a machine gun and nothing else), as well as for other reasons including ease of downloading, smaller filesize, simpler updating process, etc.
 
 As such, a number of existing vehicles have been moved to the new pack. Do not fret -- these vehicles are still available, just as part of a separate pack (which will take the place of the old one when it comes to new content updates). Between the two packs, NO REMODELS HAVE BEEN ENTIRELY REMOVED (any remodels which are no longer included here are now in Dakka Plus).
 
