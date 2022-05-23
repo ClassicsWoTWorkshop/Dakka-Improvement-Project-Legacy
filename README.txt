@@ -7,7 +7,7 @@ Thank you for downloading!
 
 - To install, drag the "CWW-Legacy-Dakka-Improvement-Project" folder from within "MAIN MOD" to <Your WoT Directory>\mods\<Game Version>.
 
-(Example: C:\Games\World_of_Tanks\mods\1.15.0.0)
+(Example: C:\Games\World_of_Tanks\mods\1.16.1.0)
 
 - All included vehicles are packaged in separate .wotmods for user convenience. Any vehicles which you do not want to use can be disabled by removing their .wotmod file(s). 
 
@@ -21,7 +21,7 @@ Thank you for downloading!
 
 Adds more dakka to a large selection of vehicles.
 
-CURRENTLY INCLUDED VEHICLES (127 Total + 15 add-ons [as of version 8.0.0]):
+CURRENTLY INCLUDED VEHICLES (127 Total + 18 add-ons [as of version 8.1.0]):
 
 CHINA (3):
 
@@ -93,10 +93,11 @@ USSR (24):
 ADD-ONS (Optional):
 - China: Type 64 with DShK, 59-Patton with no spotlight over gun
 - France: leFH18B2 with opened rear superstructure doors, EBR 75 FL-10 with .50-cal MG
+- Germany: E 75 with cupola ring + MG34 ONLY (no additinoal stowage), E 50 Ausf. M with MG42 (no additional stowage)
 - Italy: P.43 Bis, P.43 Ter, & P.44 Pantera with alternative "late-model" machine guns (unhistorical)
 - Poland: 45TP Habicha with alternate (simplified) DShK mount
 - UK: Centurion 7/1 with standard cupola-mounted .30-cal MG (same as Centurion Mk1/Caernarvon)
-- USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T30 with roof-mounted MGs only (no spare .50-cal on turret rear)
+- USA: T78 'Federalist' 3D style with roof-mounted .50-cal (replaces stock .30-cal), T69 with .50-cal MG ONLY (no additional stowage), T30 with roof-mounted MGs only (no spare .50-cal on turret rear)
 - USSR: KV-85 with cupola-mounted DShK, T-34-85M with alternate MG (DP-28 LMG), T-54 ltwt. with twin-KPV mount (from Obj 705A), T-103 with 'Granite' ZPU-2 machine gun platform (from IS-7 3d style)
 
 

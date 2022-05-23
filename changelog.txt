@@ -1,9 +1,16 @@
 CHANGELOGS:
 
-8.0.x (31 Dec 2021-)
+8.1.0 (31 Dec 2021 - 23 May 2022)
+
+===UPDATED VEHICLES (3):===
+- Germany: Updated E 75 and E 50 Ausf. M with extra equipment from 2019 BR mode
+- USA: Updated T69 with extra stowage from 2019 BR mode
+
+===ADD-ONS (3):===
+- Germany: Relegated old E 75 (ring + MG only) and E 50 Ausf. M (later-model MG) to addons
+- USA: Relegated old T69 (only MG, no additional stowage) to addons
 
 OTHER CHANGES:
-
 - Chrysler GF - fixed an issue which caused progression decal transparency to display incorrectly on the turret
 
 //////////////////////////////////////////////////////
