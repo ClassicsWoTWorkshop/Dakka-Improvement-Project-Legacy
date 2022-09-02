@@ -12,6 +12,7 @@ CHANGELOGS:
 
 OTHER CHANGES:
 - Chrysler GF - fixed an issue which caused progression decal transparency to display incorrectly on the turret
+- Misc - removed duplicate files
 
 //////////////////////////////////////////////////////
 
